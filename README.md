@@ -7,7 +7,7 @@
 <h2>Informações iniciais:</h2>
 
 <h3>Banco de Dados:</h3>
-<p>No arquivo: 'script_database.sql' está contido o script de criação do banco de dados feito para esta aplicação.</p>
+<p>No arquivo: 'script_sqlServer.sql' está contido o script de criação do banco de dados feito para esta aplicação.</p>
 <p>O banco de dados foi desenvolvido utilizando o SQL Server 2014 Management Studio.</p>
 
 <h3>Dependências do projeto:</h3>
