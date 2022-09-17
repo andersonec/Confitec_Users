@@ -1,0 +1,15 @@
+C:\PROJETOS\CONFITEC\confitec-system-users\users.Domain.DTO\bin\Debug\net5.0\users.Domain.DTO.deps.json
+C:\PROJETOS\CONFITEC\confitec-system-users\users.Domain.DTO\bin\Debug\net5.0\users.Domain.DTO.dll
+C:\PROJETOS\CONFITEC\confitec-system-users\users.Domain.DTO\bin\Debug\net5.0\users.Domain.DTO.pdb
+C:\PROJETOS\CONFITEC\confitec-system-users\users.Domain.DTO\bin\Debug\net5.0\users.Infra.Entities.dll
+C:\PROJETOS\CONFITEC\confitec-system-users\users.Domain.DTO\bin\Debug\net5.0\users.Infra.Entities.pdb
+C:\PROJETOS\CONFITEC\confitec-system-users\users.Domain.DTO\obj\Debug\net5.0\users.Domain.DTO.csproj.AssemblyReference.cache
+C:\PROJETOS\CONFITEC\confitec-system-users\users.Domain.DTO\obj\Debug\net5.0\users.Domain.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\CONFITEC\confitec-system-users\users.Domain.DTO\obj\Debug\net5.0\users.Domain.DTO.AssemblyInfoInputs.cache
+C:\PROJETOS\CONFITEC\confitec-system-users\users.Domain.DTO\obj\Debug\net5.0\users.Domain.DTO.AssemblyInfo.cs
+C:\PROJETOS\CONFITEC\confitec-system-users\users.Domain.DTO\obj\Debug\net5.0\users.Domain.DTO.csproj.CoreCompileInputs.cache
+C:\PROJETOS\CONFITEC\confitec-system-users\users.Domain.DTO\obj\Debug\net5.0\users.Domain.DTO.csproj.CopyComplete
+C:\PROJETOS\CONFITEC\confitec-system-users\users.Domain.DTO\obj\Debug\net5.0\users.Domain.DTO.dll
+C:\PROJETOS\CONFITEC\confitec-system-users\users.Domain.DTO\obj\Debug\net5.0\refint\users.Domain.DTO.dll
+C:\PROJETOS\CONFITEC\confitec-system-users\users.Domain.DTO\obj\Debug\net5.0\users.Domain.DTO.pdb
+C:\PROJETOS\CONFITEC\confitec-system-users\users.Domain.DTO\obj\Debug\net5.0\ref\users.Domain.DTO.dll

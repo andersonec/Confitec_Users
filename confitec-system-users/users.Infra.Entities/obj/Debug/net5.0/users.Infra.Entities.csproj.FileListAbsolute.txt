@@ -1,0 +1,12 @@
+C:\PROJETOS\CONFITEC\confitec-system-users\users.Infra.Entities\bin\Debug\net5.0\users.Infra.Entities.deps.json
+C:\PROJETOS\CONFITEC\confitec-system-users\users.Infra.Entities\bin\Debug\net5.0\users.Infra.Entities.dll
+C:\PROJETOS\CONFITEC\confitec-system-users\users.Infra.Entities\bin\Debug\net5.0\users.Infra.Entities.pdb
+C:\PROJETOS\CONFITEC\confitec-system-users\users.Infra.Entities\obj\Debug\net5.0\users.Infra.Entities.csproj.AssemblyReference.cache
+C:\PROJETOS\CONFITEC\confitec-system-users\users.Infra.Entities\obj\Debug\net5.0\users.Infra.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\CONFITEC\confitec-system-users\users.Infra.Entities\obj\Debug\net5.0\users.Infra.Entities.AssemblyInfoInputs.cache
+C:\PROJETOS\CONFITEC\confitec-system-users\users.Infra.Entities\obj\Debug\net5.0\users.Infra.Entities.AssemblyInfo.cs
+C:\PROJETOS\CONFITEC\confitec-system-users\users.Infra.Entities\obj\Debug\net5.0\users.Infra.Entities.csproj.CoreCompileInputs.cache
+C:\PROJETOS\CONFITEC\confitec-system-users\users.Infra.Entities\obj\Debug\net5.0\users.Infra.Entities.dll
+C:\PROJETOS\CONFITEC\confitec-system-users\users.Infra.Entities\obj\Debug\net5.0\refint\users.Infra.Entities.dll
+C:\PROJETOS\CONFITEC\confitec-system-users\users.Infra.Entities\obj\Debug\net5.0\users.Infra.Entities.pdb
+C:\PROJETOS\CONFITEC\confitec-system-users\users.Infra.Entities\obj\Debug\net5.0\ref\users.Infra.Entities.dll

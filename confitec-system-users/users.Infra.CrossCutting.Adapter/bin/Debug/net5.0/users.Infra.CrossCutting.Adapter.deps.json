@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "users.Infra.CrossCutting.Adapter/1.0.0": {
+        "dependencies": {
+          "users.Domain.DTO": "1.0.0",
+          "users.Infra.Entities": "1.0.0"
+        },
+        "runtime": {
+          "users.Infra.CrossCutting.Adapter.dll": {}
+        }
+      },
+      "users.Domain.DTO/1.0.0": {
+        "dependencies": {
+          "users.Infra.Entities": "1.0.0"
+        },
+        "runtime": {
+          "users.Domain.DTO.dll": {}
+        }
+      },
+      "users.Infra.Entities/1.0.0": {
+        "runtime": {
+          "users.Infra.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "users.Infra.CrossCutting.Adapter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "users.Domain.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "users.Infra.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
